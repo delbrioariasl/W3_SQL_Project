@@ -15,10 +15,12 @@ The goal of this project is to build your own database from several csv files. F
 
 BONUS: Probar de 5 a 10 Querys distintas para ver la funcionalidad de la base de datos:
 -- Query 1: encontrar los actores y sus peliculas correspondientes:
+
 ![foto](https://github.com/delbrioariasl/W3_SQL_Project/blob/main/image.png)
 
 -- Query 2: encontrar el numero de peliculas en cada categoría: 
-![foto](b647652b1ec21f320304648dcabb4603dcdea879)
+
+![foto](https://github.com/delbrioariasl/W3_SQL_Project/commit/b647652b1ec21f320304648dcabb4603dcdea879)
 
 -- Query 3: encontrar los clientes que hayan alquilado peliculas y los detalles del alquiler:
 
